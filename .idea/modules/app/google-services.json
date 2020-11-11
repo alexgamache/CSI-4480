@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280851598830",
+    "firebase_url": "https://csi-4480.firebaseio.com",
+    "project_id": "csi-4480",
+    "storage_bucket": "csi-4480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280851598830:android:307017c72a063dbc9ed2ff",
+        "android_client_info": {
+          "package_name": "com.example.ollux.csi_4480"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280851598830-ughohuk279fvc0iur0dvcg61o23ebiu7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ollux.csi_4480",
+            "certificate_hash": "b578823567347672dcf42b280f9812026634d479"
+          }
+        },
+        {
+          "client_id": "280851598830-a5nvggvuclflibn0thv9tbq6b5nm6c94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomM2twVDEBiIGjnfAfTwi0GnJGNoANg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280851598830-a5nvggvuclflibn0thv9tbq6b5nm6c94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
